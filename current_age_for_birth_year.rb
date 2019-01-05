@@ -7,4 +7,4 @@ def current_age_for_birth_year(year)
 end
 
 
-print current_age_for_birth_year(1998)
+current_age_for_birth_year(1998)
